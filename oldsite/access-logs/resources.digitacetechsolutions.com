@@ -1,0 +1,7 @@
+45.196.45.140 - - [10/Jul/2024:22:50:17 +0530] "GET / HTTP/1.1" 200 13728 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" www.resources.digitacetechsolutions.com 103.53.42.63
+103.53.42.63 - - [10/Jul/2024:22:50:20 +0530] "POST /wp-cron.php?doing_wp_cron=1720632020.0291659832000732421875 HTTP/1.1" 200 - "-" "WordPress/6.5.5; http://www.resources.digitacetechsolutions.com" www.resources.digitacetechsolutions.com 103.53.42.63
+129.226.151.139 - - [10/Jul/2024:22:50:17 +0530] "GET /favicon.ico HTTP/1.1" 302 - "-" "Go-http-client/1.1" www.resources.digitacetechsolutions.com 103.53.42.63
+103.53.42.63 - - [10/Jul/2024:22:50:23 +0530] "POST /wp-cron.php HTTP/1.1" 200 - "-" "WordPress/6.5.5; http://www.resources.digitacetechsolutions.com" www.resources.digitacetechsolutions.com 103.53.42.63
+103.53.42.63 - - [10/Jul/2024:22:50:23 +0530] "GET / HTTP/1.1" 200 13728 "-" "WordPress/6.5.5; http://www.resources.digitacetechsolutions.com" www.resources.digitacetechsolutions.com 103.53.42.63
+103.53.42.63 - - [10/Jul/2024:22:50:23 +0530] "GET / HTTP/1.1" 200 13728 "-" "WordPress/6.5.5; http://www.resources.digitacetechsolutions.com" www.resources.digitacetechsolutions.com 103.53.42.63
+103.53.42.63 - - [10/Jul/2024:22:50:23 +0530] "GET / HTTP/1.1" 200 13728 "-" "WordPress/6.5.5; http://www.resources.digitacetechsolutions.com" www.resources.digitacetechsolutions.com 103.53.42.63

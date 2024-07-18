@@ -1,0 +1,973 @@
+[13-Feb-2024 12:40:39 UTC] Cron reschedule event error for hook: nfd_data_sync_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"minutely","args":[],"interval":60}
+[13-Feb-2024 12:45:49 UTC] PHP Warning:  Attempt to read property "public" on null in /home1/digitqj7/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[14-Feb-2024 02:41:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[14-Feb-2024 02:41:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Feb-2024 12:03:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[14-Feb-2024 12:03:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Feb-2024 12:04:23 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[14-Feb-2024 12:04:23 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Feb-2024 12:34:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[14-Feb-2024 12:34:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Feb-2024 12:34:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[14-Feb-2024 12:34:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Feb-2024 19:36:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[15-Feb-2024 00:45:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 00:45:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 00:45:20 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 00:45:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 11:45:40 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 11:45:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 12:07:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 12:07:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 16:21:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 16:21:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 22:52:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Feb-2024 22:52:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Feb-2024 23:37:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[17-Feb-2024 00:44:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[17-Feb-2024 00:44:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Feb-2024 00:44:52 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[17-Feb-2024 00:44:52 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Feb-2024 18:23:11 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[17-Feb-2024 18:23:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Feb-2024 20:00:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[18-Feb-2024 08:29:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[18-Feb-2024 08:29:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[18-Feb-2024 08:29:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[18-Feb-2024 08:29:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[18-Feb-2024 10:28:59 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[18-Feb-2024 10:28:59 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Feb-2024 00:15:17 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Feb-2024 00:15:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Feb-2024 00:28:20 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Feb-2024 00:28:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Feb-2024 17:04:06 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Feb-2024 17:04:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Feb-2024 23:01:17 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Feb-2024 23:01:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Feb-2024 00:48:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[20-Feb-2024 17:26:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[20-Feb-2024 21:02:31 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[20-Feb-2024 21:02:31 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Feb-2024 23:28:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[20-Feb-2024 23:28:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Feb-2024 01:26:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[21-Feb-2024 11:31:23 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[21-Feb-2024 11:31:23 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Feb-2024 14:54:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[23-Feb-2024 05:09:22 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 05:09:22 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Feb-2024 05:09:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 05:09:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Feb-2024 05:20:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 05:20:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Feb-2024 05:20:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 05:20:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Feb-2024 21:49:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 21:49:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Feb-2024 21:49:32 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Feb-2024 21:49:32 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Feb-2024 03:02:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[24-Feb-2024 06:02:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[24-Feb-2024 12:39:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Feb-2024 12:39:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Feb-2024 21:16:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Feb-2024 21:16:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Feb-2024 21:16:11 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Feb-2024 21:16:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Feb-2024 22:22:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Feb-2024 22:22:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Feb-2024 22:22:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Feb-2024 22:22:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Feb-2024 17:08:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Feb-2024 17:08:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Feb-2024 17:08:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Feb-2024 17:08:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 05:19:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 05:19:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 05:19:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 13:03:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 13:03:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 13:03:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 13:03:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 13:19:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 13:19:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 13:19:53 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 13:19:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 15:50:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 15:50:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 15:50:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 15:50:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Feb-2024 17:35:40 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[26-Feb-2024 17:35:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Feb-2024 05:55:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Feb-2024 05:55:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Feb-2024 05:55:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Feb-2024 05:55:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Feb-2024 11:57:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[28-Feb-2024 11:57:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Feb-2024 11:57:22 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[28-Feb-2024 11:57:22 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Feb-2024 12:25:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[28-Feb-2024 12:25:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Feb-2024 12:25:50 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[28-Feb-2024 12:25:50 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Mar-2024 13:41:58 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[01-Mar-2024 13:41:58 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[01-Mar-2024 18:24:51 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[01-Mar-2024 18:24:51 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Mar-2024 18:24:52 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[01-Mar-2024 18:24:52 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Mar-2024 23:42:36 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[01-Mar-2024 23:42:36 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[02-Mar-2024 06:25:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[02-Mar-2024 06:25:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Mar-2024 06:25:58 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[02-Mar-2024 06:25:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Mar-2024 09:05:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[02-Mar-2024 09:05:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Mar-2024 11:22:48 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[02-Mar-2024 11:22:48 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Mar-2024 11:22:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[02-Mar-2024 11:22:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Mar-2024 10:44:15 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 10:45:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[04-Mar-2024 19:59:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Mar-2024 20:30:23 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[04-Mar-2024 20:30:23 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Mar-2024 22:46:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[04-Mar-2024 22:46:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Mar-2024 22:47:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[04-Mar-2024 22:47:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Mar-2024 19:12:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Mar-2024 19:12:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Mar-2024 19:12:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Mar-2024 19:12:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Mar-2024 07:48:48 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[06-Mar-2024 07:48:48 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[06-Mar-2024 07:48:48 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[06-Mar-2024 07:49:17 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[06-Mar-2024 07:49:17 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[06-Mar-2024 07:49:17 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[07-Mar-2024 08:06:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Mar-2024 08:06:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Mar-2024 09:14:09 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[07-Mar-2024 09:14:09 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[07-Mar-2024 09:14:09 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[07-Mar-2024 10:24:12 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Mar-2024 10:24:12 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Mar-2024 10:24:22 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Mar-2024 10:24:22 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Mar-2024 16:31:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Mar-2024 16:31:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Mar-2024 06:47:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Mar-2024 06:47:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Mar-2024 06:47:39 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Mar-2024 06:47:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Mar-2024 07:05:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Mar-2024 07:05:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Mar-2024 07:05:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Mar-2024 07:05:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Mar-2024 07:51:43 UTC] PHP Warning:  Attempt to read property "public" on null in /home1/digitqj7/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[08-Mar-2024 07:52:18 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:18 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:18 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:18 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:19 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:19 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:19 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 07:52:19 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:06:41 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:06:41 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:06:41 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:06:41 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:35:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:35:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:35:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 08:35:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 10:00:29 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 10:00:29 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 10:00:29 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 10:00:29 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:21:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:21:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:21:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:21:56 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:27:11 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:27:11 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:27:11 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 11:27:11 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 12:09:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 12:09:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 12:09:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[08-Mar-2024 12:09:50 UTC] PHP Warning:  Undefined array key "wrapper" in /home1/digitqj7/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 87
+[09-Mar-2024 01:20:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 01:20:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 04:02:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 04:02:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 04:02:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 04:02:25 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 21:06:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 21:06:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 21:06:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 21:06:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 22:06:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 22:06:21 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 22:06:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 22:06:21 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 22:26:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 22:26:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Mar-2024 22:27:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Mar-2024 22:27:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Mar-2024 17:30:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Mar-2024 17:30:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Mar-2024 17:30:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Mar-2024 17:30:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 05:07:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 05:07:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 05:07:05 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 05:07:05 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 13:36:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 13:36:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 13:36:30 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 13:36:30 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 13:38:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 13:38:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Mar-2024 13:38:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Mar-2024 13:38:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Mar-2024 01:59:06 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[12-Mar-2024 01:59:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Mar-2024 01:59:22 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[12-Mar-2024 01:59:22 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Mar-2024 12:45:20 UTC] Cron reschedule event error for hook: mm_cron_monthly, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"monthly","args":[],"interval":2419200}
+[13-Mar-2024 13:12:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Mar-2024 13:12:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[13-Mar-2024 13:14:32 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Mar-2024 13:14:32 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[13-Mar-2024 14:19:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Mar-2024 14:19:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[13-Mar-2024 14:19:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Mar-2024 14:19:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Mar-2024 22:44:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Mar-2024 22:44:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Mar-2024 23:43:39 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Mar-2024 23:43:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[15-Mar-2024 23:43:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[15-Mar-2024 23:43:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Mar-2024 20:12:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[17-Mar-2024 20:12:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[18-Mar-2024 01:43:28 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[18-Mar-2024 01:43:28 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[18-Mar-2024 01:44:57 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[18-Mar-2024 01:44:57 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[19-Mar-2024 00:27:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Mar-2024 06:06:50 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Mar-2024 06:06:50 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Mar-2024 06:06:58 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Mar-2024 06:06:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Mar-2024 07:54:32 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Mar-2024 07:54:32 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Mar-2024 07:54:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Mar-2024 07:54:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Mar-2024 07:55:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Mar-2024 07:55:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Mar-2024 07:55:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Mar-2024 07:55:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 03:19:32 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 03:19:32 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 03:19:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 03:19:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 20:49:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 20:49:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 20:50:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 20:50:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 22:00:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 22:00:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Mar-2024 22:00:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Mar-2024 22:00:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Mar-2024 21:32:30 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Mar-2024 21:32:30 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Mar-2024 21:32:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Mar-2024 21:32:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Mar-2024 21:59:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Mar-2024 21:59:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Mar-2024 21:59:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Mar-2024 21:59:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 07:43:51 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 07:43:51 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 07:43:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 07:43:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 13:05:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 13:05:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 18:20:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 18:20:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 18:20:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 18:20:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 18:28:59 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 18:28:59 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 18:29:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Mar-2024 18:29:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Mar-2024 20:20:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Mar-2024 00:37:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[27-Mar-2024 14:35:18 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 14:35:18 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Mar-2024 14:35:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 14:35:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Mar-2024 14:59:34 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 14:59:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Mar-2024 14:59:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 14:59:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Mar-2024 16:40:52 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 16:40:52 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Mar-2024 16:41:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[27-Mar-2024 16:41:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Mar-2024 01:04:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[28-Mar-2024 21:33:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[29-Mar-2024 03:27:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[29-Mar-2024 14:44:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[30-Mar-2024 10:40:48 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[30-Mar-2024 10:40:48 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Mar-2024 10:40:48 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[30-Mar-2024 10:40:48 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Mar-2024 14:59:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[30-Mar-2024 14:59:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Mar-2024 17:09:46 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-Mar-2024 23:08:20 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[30-Mar-2024 23:08:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Mar-2024 23:08:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[30-Mar-2024 23:08:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[31-Mar-2024 13:30:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[31-Mar-2024 14:16:34 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[31-Mar-2024 14:16:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Apr-2024 01:24:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[01-Apr-2024 22:10:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[01-Apr-2024 22:46:31 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[01-Apr-2024 22:46:31 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Apr-2024 22:46:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[01-Apr-2024 22:46:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Apr-2024 02:37:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[02-Apr-2024 05:34:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[03-Apr-2024 05:42:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[03-Apr-2024 08:41:06 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[03-Apr-2024 08:41:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Apr-2024 13:47:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[03-Apr-2024 21:49:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[03-Apr-2024 23:38:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[04-Apr-2024 18:58:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[04-Apr-2024 21:54:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[05-Apr-2024 02:08:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 02:08:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 05:40:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 05:40:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 09:48:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[05-Apr-2024 10:24:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 10:24:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 10:24:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 10:24:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 10:34:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 10:34:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 10:34:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 10:34:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 22:38:49 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 22:38:49 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Apr-2024 22:38:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[05-Apr-2024 22:38:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Apr-2024 05:30:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[06-Apr-2024 12:15:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[06-Apr-2024 22:30:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[07-Apr-2024 00:14:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 00:14:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 03:19:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 03:19:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 03:19:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 03:19:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 04:37:20 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 04:37:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 04:37:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 04:37:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 20:37:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 20:37:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 20:37:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[07-Apr-2024 20:37:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-Apr-2024 20:42:14 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-Apr-2024 20:42:14 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[08-Apr-2024 03:16:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[08-Apr-2024 03:22:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 03:22:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 03:22:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 03:22:25 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 07:39:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 07:39:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 07:39:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 07:39:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 18:11:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 18:11:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 18:11:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 18:11:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 18:13:23 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 18:13:23 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Apr-2024 18:13:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[08-Apr-2024 18:13:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Apr-2024 03:08:33 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Apr-2024 03:08:33 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Apr-2024 23:30:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Apr-2024 23:30:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[09-Apr-2024 23:30:58 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[09-Apr-2024 23:30:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Apr-2024 02:44:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[10-Apr-2024 14:24:51 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Apr-2024 14:24:51 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Apr-2024 14:24:52 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Apr-2024 14:24:52 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Apr-2024 14:52:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Apr-2024 14:52:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[10-Apr-2024 14:53:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[10-Apr-2024 14:53:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[11-Apr-2024 01:29:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[11-Apr-2024 01:29:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Apr-2024 04:12:12 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[12-Apr-2024 04:12:12 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Apr-2024 04:12:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[12-Apr-2024 04:12:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[13-Apr-2024 01:54:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[13-Apr-2024 19:39:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Apr-2024 19:39:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[13-Apr-2024 19:39:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[13-Apr-2024 19:39:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Apr-2024 15:29:20 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[14-Apr-2024 15:29:20 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[16-Apr-2024 03:16:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[16-Apr-2024 05:09:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[17-Apr-2024 01:35:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[17-Apr-2024 12:16:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[17-Apr-2024 12:16:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[17-Apr-2024 21:17:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[17-Apr-2024 21:17:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Apr-2024 11:20:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Apr-2024 11:20:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Apr-2024 11:20:14 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Apr-2024 11:41:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Apr-2024 11:41:21 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Apr-2024 11:42:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Apr-2024 11:42:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Apr-2024 11:50:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Apr-2024 11:50:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Apr-2024 11:50:11 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Apr-2024 11:50:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-Apr-2024 19:45:59 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[19-Apr-2024 19:45:59 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Apr-2024 22:41:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[20-Apr-2024 22:41:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Apr-2024 03:14:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[21-Apr-2024 03:14:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Apr-2024 03:14:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[21-Apr-2024 03:14:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Apr-2024 06:59:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[21-Apr-2024 06:59:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Apr-2024 07:01:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[21-Apr-2024 07:01:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-Apr-2024 09:55:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Apr-2024 03:11:18 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 03:11:18 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 03:11:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 03:11:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 08:15:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 08:15:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 08:15:39 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 08:15:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 18:12:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 18:12:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 18:12:13 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 18:12:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 18:14:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 18:14:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-Apr-2024 18:14:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[22-Apr-2024 18:14:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Apr-2024 07:39:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Apr-2024 07:39:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Apr-2024 12:14:17 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Apr-2024 12:14:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Apr-2024 23:10:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Apr-2024 23:10:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-Apr-2024 23:10:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[23-Apr-2024 23:10:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 07:43:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 07:43:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 07:43:13 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 07:43:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 15:05:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 15:05:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 15:06:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 15:06:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 15:36:33 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 15:36:33 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[24-Apr-2024 15:36:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[24-Apr-2024 15:36:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-Apr-2024 00:31:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1334
+[25-Apr-2024 00:31:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[27-Apr-2024 12:58:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[27-Apr-2024 12:58:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[29-Apr-2024 20:51:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[29-Apr-2024 20:51:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[29-Apr-2024 20:51:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[29-Apr-2024 20:51:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[29-Apr-2024 21:47:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[29-Apr-2024 21:47:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[30-Apr-2024 04:54:40 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Apr-2024 04:54:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-May-2024 11:33:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-May-2024 11:33:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-May-2024 11:33:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-May-2024 11:33:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-May-2024 11:38:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-May-2024 11:38:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-May-2024 11:38:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-May-2024 11:38:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-May-2024 07:35:34 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-May-2024 07:35:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-May-2024 12:14:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-May-2024 12:14:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-May-2024 12:14:47 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-May-2024 12:14:47 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-May-2024 22:23:53 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-May-2024 22:23:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[05-May-2024 03:03:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-May-2024 03:03:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[05-May-2024 03:03:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-May-2024 03:03:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[05-May-2024 10:12:21 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-May-2024 10:12:21 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[05-May-2024 10:12:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-May-2024 10:12:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[05-May-2024 11:11:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-May-2024 03:02:58 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 03:02:58 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 03:03:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 03:03:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 08:06:07 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 08:06:07 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 08:06:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 08:06:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 18:03:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 18:03:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 18:03:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 18:03:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 18:07:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 18:07:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-May-2024 18:07:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-May-2024 18:07:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[07-May-2024 01:27:52 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-May-2024 01:27:52 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[07-May-2024 01:29:38 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-May-2024 01:29:38 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[07-May-2024 03:00:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-May-2024 03:00:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[07-May-2024 07:31:53 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-May-2024 07:31:53 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[07-May-2024 12:34:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-May-2024 12:34:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[07-May-2024 12:34:34 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-May-2024 12:34:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[07-May-2024 12:51:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[07-May-2024 12:51:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[07-May-2024 19:02:41 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-May-2024 19:02:41 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[07-May-2024 19:03:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[07-May-2024 19:03:31 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[08-May-2024 16:33:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-May-2024 16:33:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[08-May-2024 16:34:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-May-2024 16:34:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[08-May-2024 17:51:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-May-2024 17:51:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[08-May-2024 17:51:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-May-2024 17:51:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[12-May-2024 11:50:10 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-May-2024 11:23:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-May-2024 11:23:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-May-2024 11:23:50 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-May-2024 11:23:50 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-May-2024 11:23:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-May-2024 11:23:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-May-2024 11:24:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-May-2024 11:24:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[19-May-2024 02:54:24 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-May-2024 02:54:24 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[19-May-2024 02:54:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-May-2024 02:54:25 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[19-May-2024 04:16:44 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-May-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-May-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[19-May-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[19-May-2024 12:58:56 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 02:52:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 02:52:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 02:52:06 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 02:52:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 08:02:13 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 08:02:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 08:02:14 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 08:02:14 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 17:55:48 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 17:55:48 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 17:55:51 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 17:55:51 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 17:59:13 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 17:59:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-May-2024 17:59:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-May-2024 17:59:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[21-May-2024 19:48:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[21-May-2024 19:48:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[22-May-2024 01:48:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[22-May-2024 22:04:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-May-2024 22:04:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[22-May-2024 22:04:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-May-2024 22:04:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[22-May-2024 22:11:37 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-May-2024 22:11:37 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[22-May-2024 22:11:38 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[22-May-2024 22:11:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[23-May-2024 08:49:20 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[23-May-2024 08:49:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[25-May-2024 21:24:16 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[25-May-2024 21:24:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[27-May-2024 20:31:00 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[27-May-2024 20:31:00 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[27-May-2024 20:31:48 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[27-May-2024 20:31:48 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[29-May-2024 21:55:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-May-2024 07:16:22 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-May-2024 07:16:22 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[31-May-2024 13:17:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[31-May-2024 13:17:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[31-May-2024 13:17:17 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[31-May-2024 13:17:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[31-May-2024 13:18:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[31-May-2024 13:18:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[31-May-2024 13:18:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[31-May-2024 13:18:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jun-2024 08:48:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jun-2024 08:48:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jun-2024 19:17:53 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jun-2024 19:17:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[02-Jun-2024 04:01:14 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Jun-2024 04:01:14 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[02-Jun-2024 04:01:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Jun-2024 04:01:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[02-Jun-2024 12:54:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Jun-2024 12:54:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[02-Jun-2024 12:54:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[02-Jun-2024 12:54:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 02:51:53 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 02:51:53 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 02:52:01 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 02:52:01 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 05:44:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 05:44:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 08:32:33 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 08:32:33 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 08:32:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 08:32:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 13:03:19 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 13:03:19 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 18:04:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 18:04:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 18:06:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 18:06:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 18:09:48 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 18:09:48 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jun-2024 18:11:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jun-2024 18:11:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jun-2024 12:32:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jun-2024 12:32:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jun-2024 15:03:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[04-Jun-2024 15:03:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[05-Jun-2024 09:51:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[05-Jun-2024 09:51:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-Jun-2024 01:43:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Jun-2024 01:43:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-Jun-2024 01:43:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Jun-2024 01:43:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-Jun-2024 01:51:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Jun-2024 01:51:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[06-Jun-2024 01:51:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[06-Jun-2024 01:51:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[08-Jun-2024 15:51:39 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[08-Jun-2024 15:51:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[08-Jun-2024 21:16:56 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[08-Jun-2024 21:16:56 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[11-Jun-2024 04:59:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[12-Jun-2024 03:39:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[12-Jun-2024 03:39:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[13-Jun-2024 03:39:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Jun-2024 09:53:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[14-Jun-2024 11:13:26 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[14-Jun-2024 11:13:26 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[14-Jun-2024 14:11:54 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Jun-2024 14:11:54 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[14-Jun-2024 14:11:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Jun-2024 14:11:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[14-Jun-2024 14:20:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Jun-2024 14:20:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[14-Jun-2024 14:20:47 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[14-Jun-2024 14:20:47 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[14-Jun-2024 17:29:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[14-Jun-2024 17:29:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[14-Jun-2024 21:47:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[16-Jun-2024 04:00:12 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[16-Jun-2024 04:00:12 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[16-Jun-2024 04:00:13 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[16-Jun-2024 04:00:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[16-Jun-2024 12:45:06 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[16-Jun-2024 12:45:06 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[16-Jun-2024 12:45:08 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[16-Jun-2024 12:45:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[16-Jun-2024 17:23:15 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[16-Jun-2024 17:23:15 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[16-Jun-2024 20:48:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[17-Jun-2024 02:38:14 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 02:38:14 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 02:38:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 02:38:15 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 08:11:35 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 08:11:35 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 08:11:36 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 08:11:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 17:38:43 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 17:38:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 17:38:44 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 17:38:44 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 18:13:59 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 18:13:59 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[17-Jun-2024 18:14:00 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[17-Jun-2024 18:14:00 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[18-Jun-2024 17:47:56 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[18-Jun-2024 17:47:56 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[20-Jun-2024 03:46:02 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Jun-2024 03:46:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-Jun-2024 03:46:03 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Jun-2024 03:46:03 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-Jun-2024 05:13:31 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Jun-2024 05:13:31 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-Jun-2024 05:13:33 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[20-Jun-2024 05:13:33 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[20-Jun-2024 21:54:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[22-Jun-2024 02:43:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[25-Jun-2024 15:43:36 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Jun-2024 22:33:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[26-Jun-2024 16:43:30 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[26-Jun-2024 16:43:30 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[27-Jun-2024 00:27:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[27-Jun-2024 17:59:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[27-Jun-2024 21:44:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[27-Jun-2024 21:44:03 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[27-Jun-2024 21:45:50 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[27-Jun-2024 21:45:50 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[28-Jun-2024 00:10:18 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[28-Jun-2024 00:10:18 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[28-Jun-2024 12:00:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 12:00:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 12:00:27 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 12:00:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 15:26:39 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 15:26:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 15:26:40 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 15:26:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 15:49:41 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 15:49:41 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 15:49:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[28-Jun-2024 15:49:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[28-Jun-2024 18:20:19 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 110
+[28-Jun-2024 18:20:19 UTC] PHP Warning:  Undefined array key "action" in /home1/digitqj7/public_html/wp-content/plugins/jeg-elementor-kit/class/ajax/class-ajax.php on line 131
+[28-Jun-2024 21:40:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[29-Jun-2024 21:00:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[30-Jun-2024 00:33:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[30-Jun-2024 01:42:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-settings.php on line 33
+[30-Jun-2024 04:08:55 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Jun-2024 04:08:55 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[30-Jun-2024 04:08:57 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Jun-2024 04:08:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[30-Jun-2024 13:09:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Jun-2024 13:09:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[30-Jun-2024 13:09:04 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[30-Jun-2024 13:09:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 02:51:45 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 02:51:45 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 02:51:46 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 02:51:46 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 07:52:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 07:52:25 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 07:52:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 07:52:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 17:21:33 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 17:21:33 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 17:21:34 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 17:21:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 17:52:09 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 17:52:09 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[01-Jul-2024 17:52:10 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[01-Jul-2024 17:52:10 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[02-Jul-2024 15:22:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Jul-2024 18:49:42 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[03-Jul-2024 18:49:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[03-Jul-2024 20:26:02 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Jul-2024 05:02:25 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jul-2024 05:02:25 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jul-2024 05:02:26 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jul-2024 05:02:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jul-2024 06:13:28 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jul-2024 06:13:28 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jul-2024 06:13:29 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jul-2024 06:13:29 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336
+[04-Jul-2024 18:18:05 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1335
+[04-Jul-2024 18:18:05 UTC] PHP Warning:  Attempt to read property "ID" on null in /home1/digitqj7/public_html/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 1336

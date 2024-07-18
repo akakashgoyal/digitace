@@ -1,0 +1,4 @@
+[22-May-2024 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/digitqj7/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-includes/class-IXR.php on line 42

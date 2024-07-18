@@ -1,0 +1,113 @@
+<?php include('function.php'); ?>
+
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>View Sub Category</title>
+    <link rel="icon" href="assets/img/icon/nxtelogo.png" type="image/png">
+    <?php include('includes/links.php') ?>
+  </head>
+  <body class="crm_body_bg">
+    <?php include('includes/header.php'); ?>
+    <section class="main_content dashboard_part large_header_bg">
+
+    <!-- navbar -->
+      <?php include('includes/navbar.php'); ?>  
+
+      <div class="main_content_iner overly_inner">
+        <div class="container-fluid p-0">
+          <div class="row">
+            <div class="col-12">
+              <div class="page_title_box d-flex align-items-center justify-content-between">
+                <div class="page_title_left">
+                  <h3 class="f_s_30 f_w_700 text_white">View Sub Category</h3>
+                  <ol class="breadcrumb page_bradcam mb-0">
+                    <li class="breadcrumb-item">
+                      <a href="javascript:void(0);">NXTE</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                      <a href="javascript:void(0);">Category</a>
+                    </li>
+                    <li class="breadcrumb-item active">View Sub Category</li>
+                  </ol>
+                </div>
+                <a href="add-sub-categories.php" class="white_btn3">Add New Sub Category</a>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <!-- Data tables start -->
+            <div class="main_content_iner">
+              <div class="container-fluid p-0">
+                <div class="row justify-content-center">
+                  <div class="col-lg-12">
+                    <div class="white_card card_height_100 mb_30">
+                      <div class="white_card_header">
+                        <div class="box_header m-0">
+                          <div class="main-title">
+                            <h3 class="m-0">Sub Category Table</h3>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="white_card_body">
+                        <div class="QA_section">
+                          <div class="white_box_tittle list_header">
+                            <div class="box_right d-flex lms_block">
+                              <div class="add_button ms-2">
+                                <a href="add-sub-categories.php" data-bs-toggle="modal" data-bs-target="#addcategory" class="btn_1">Add New Sub Category</a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="QA_table mb_30">
+                            <table class="table lms_table_active">
+                              <thead>
+                                <tr>
+                                  <th scope="col">S.no</th>
+                                  <th scope="col">Category ID</th>
+                                  <th scope="col">Sub Service Title</th>
+                                  <th scope="col">Parent Category Name</th>
+                                  <th scope="col">Model Image 1</th>
+                                  <th scope="col">First Heading</th>
+                                  <th scope="col">First Description</th>
+                                  <th scope="col">Model Image 2</th>
+                                  <th scope="col">Second Heading</th>
+                                  <th scope="col">Second Description</th>
+                                  <th scope="col">Third Description</th>
+                                  <th scope="col">First Question</th>
+                                  <th scope="col">First Answer</th>
+                                  <th scope="col">Second Question</th>
+                                  <th scope="col">Second Answer</th>
+                                  <th scope="col">Third Question</th>
+                                  <th scope="col">Third Answer</th>
+                                  <th scope="col">Fourth Question</th>
+                                  <th scope="col">Fourth Answer</th>
+                                  <th scope="col">Fifth Question</th>
+                                  <th scope="col">Fifth Answer</th>
+                                  <th scope="col">Slug Url</th>
+                                  <th scope="col">Added On</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <?php echo get_sub_categories(); ?>  
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12"></div>
+                </div>
+              </div>
+            </div>
+            <!-- Data table end -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <?php include('includes/footer.php'); ?>
+  </body>
+</html>

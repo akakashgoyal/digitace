@@ -1,0 +1,68 @@
+[27-Feb-2024 14:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[04-Mar-2024 22:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[26-Mar-2024 10:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[02-Apr-2024 06:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[04-Apr-2024 21:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[20-Apr-2024 22:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[20-Apr-2024 23:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[14-May-2024 00:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[22-May-2024 01:55:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[03-Jun-2024 16:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
+[11-Jun-2024 04:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[17-Jun-2024 02:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[21-Jun-2024 09:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[27-Jun-2024 00:24:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[30-Jun-2024 01:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/digitqj7/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/admin.php on line 16
+[30-Jun-2024 01:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home1/digitqj7/public_html/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/menu.php on line 9
+[30-Jun-2024 01:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home1/digitqj7/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/digitqj7/public_html/wp-admin/includes/file.php on line 16
